@@ -27,6 +27,6 @@ while distance != 100:
 average = distance // number_days
 
 print = "it took " + str(number_days) + " days to surpass 100km driven."
-print = "the average distance per day is" + str(average) + "km"
+print = "the average distance per day is" + str(average) + "km" 
 
 
